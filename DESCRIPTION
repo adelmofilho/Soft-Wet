@@ -1,0 +1,24 @@
+Package: softr
+Title: Soft & Wet
+Version: 0.0.0.9000
+Authors@R: person('Adelmo', 'Filho', email = 'adelmo.aguiar.filho@gmail.com', role = c('cre', 'aut'))
+Description: Laundry tickets management app
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    shiny,
+    golem,
+    processx,
+    attempt,
+    DT,
+    glue,
+    htmltools
+RoxygenNote: 6.1.0
+URL: https://github.com/adelmofilho/Soft-Wet
+BugReports: https://github.com/adelmofilho/Soft-Wet/issues
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
