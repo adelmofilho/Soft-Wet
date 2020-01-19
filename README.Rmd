@@ -17,6 +17,8 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![Travis build status](https://travis-ci.org/adelmofilho/Soft-Wet.svg?branch=master)](https://travis-ci.org/adelmofilho/Soft-Wet)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/adelmofilho/Soft-Wet?branch=master&svg=true)](https://ci.appveyor.com/project/adelmofilho/Soft-Wet)
 <!-- badges: end -->
 
 The goal of softr is to ...
